@@ -1,0 +1,11 @@
+{
+  "idioma":"pt-br",
+  "porta": 3001,
+  "auth": {
+    "segredo": "4m8a15r16l23o42s",
+    "algoritmo": "aes256",
+    "codificacao": "utf8",
+    "tipo": "hex"
+  },
+  "dbStringConnection": "postgres://postgres:4815162342@localhost:5432/tools"
+}

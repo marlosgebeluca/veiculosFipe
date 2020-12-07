@@ -1,0 +1,14 @@
+{
+  "pt-br": {
+    "0001": "Usuário autenticado",
+    "0002": "Usuário/Senha incorretos",
+    "0003": "Usuário sem permissões cadastradas",
+    "0200": "Registro(s) atualizado(s) com sucesso"
+  },
+  "en": {
+    "0001": "user authenticated",
+    "0002": "Username and password not accepted",
+    "0003": "User without permissions",
+    "0200": "Record(s) updated successfully"
+  }
+}
